@@ -1,7 +1,7 @@
 url: https://api.soterctf.com/health
-status: up
-code: 200
-responseTime: 252
-lastUpdated: 2026-06-13T23:27:25.587Z
+status: down
+code: 521
+responseTime: 175
+lastUpdated: 2026-06-14T01:28:48.144Z
 startTime: 2026-05-18T00:44:18.954Z
 generator: Upptime <https://github.com/upptime/upptime>
